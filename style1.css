@@ -70,10 +70,25 @@ background-color:red;
   background-color: white;
 
 }
+.input-div{
+  display:flex;
+  flex-direction:row;
+}
 .input-field{
   
   width:100%;
   
   height:5%;
   background-color: violet;
+}
+.input{
+ 
+  width:80%;
+  margin:0.5% 2%;
+  height:20px;
+}
+.button{
+  width:10%;
+  margin:0.5%;
+  height:25px;
 }
