@@ -1,0 +1,79 @@
+body{
+  margin:0;
+  padding:0;
+}
+.main-head{
+  margin-top:0px;
+  font-size: 60px;
+  margin-bottom: 0px;
+  background-color: blue;
+  margin:0 40%;
+  
+}
+.main-cont{
+  display:flex;
+  flex-direction:row;
+  width:98%;
+  margin:0 auto;
+  height:100vh;
+  background-color: white;
+}
+.main-cont-sub{
+width:30%;
+background-color: red;
+margin:0%;
+}
+.main-cont-sub-chatbox{
+  width:40%;
+background-color:red;
+  margin:2%;
+}
+.main-cont-sub-2{
+  width:30%;
+  background-color: red;
+  margin:0%;
+
+}
+.main-chatbox{
+  margin:2%;
+  width:95%;
+  height:95%;
+   background-color: white;
+   display:flex;
+   flex-direction: column;
+  
+}
+.bot-status{
+  margin:0;
+  width:100%;
+  background-color: black;
+  height:11%;
+}
+.name-bot{
+  color:white;
+  margin:0;
+}
+.on-or-off-line{
+  margin-top:0px;
+  color:blue;
+  margin-bottom: 0px;
+}
+.time{
+  color:white;
+  margin-top:0px;
+}
+.bot-chat{
+  height:80%;
+  width:96%;
+  margin:2%;
+ border:2px black solid;
+  background-color: white;
+
+}
+.input-field{
+  
+  width:100%;
+  
+  height:5%;
+  background-color: violet;
+}
